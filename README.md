@@ -155,8 +155,3 @@ We welcome contributions! Please open an issue or a pull request!
 ## Acknowledgements
 
 *   [Telegram Mini Apps SDK](https://docs.telegram-mini-apps.com/)
-*   [TMDb API](https://developer.themoviedb.org/docs)
-*   [React](https://react.dev/)
-*   [Node.js](https://nodejs.org/)
-*   [Express.js](https://expressjs.com/)
-*   [PostgreSQL](https://www.postgresql.org/) (or your chosen database)
